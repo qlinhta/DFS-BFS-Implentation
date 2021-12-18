@@ -1,6 +1,6 @@
-## DFS-BFS-Implentation
+## Depth First Search & Breadth First Search Implentation
 
-###DFS Algorithm
+### DFS Algorithm
 
       DFS(G,v)   ( v is the vertex where the search starts )
          Stack S := {};   ( start with an empty stack )
@@ -16,7 +16,7 @@
          end while
       END DFS()
             
-###BFS Algorithm
+### BFS Algorithm
 
     BFS (G, s)
       let Q be queue.
